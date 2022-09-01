@@ -8,7 +8,8 @@ Implement kernel SVM for classification and provide a comparative study using di
 
 Iosd.ipynb
 ## Documentation
-In the Task 1 
+In the Task 1
+
 1). After importing required dependies , I checked basic info about the dataset .
 
 2). Then i did analysis of the correlated data , I removed some unwanted columns to make the model more clear.
