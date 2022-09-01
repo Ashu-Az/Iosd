@@ -7,7 +7,7 @@ In this project , I implement a support vector machine (SVM) model to predict th
 Implement kernel SVM for classification and provide a comparative study using different kernels(linear, polynomial, gaussian, sigmoid, RBF etc) using precision and f1-scores. 
 
 Iosd.ipynb
-## Documentation
+## Intuition
 In the Task 1
 
 1). After importing required dependies , I checked basic info about the dataset .
