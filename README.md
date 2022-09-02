@@ -21,10 +21,14 @@ In the Task 1
 5). Then i divided training and test datasets to train the model and implemented support vector machine (svm) kernels to do a comparative study between them
 
 
+* I implemented 4 types of different kernels i.e., linear , rbf , polynomial and sigmoid . In all of those kernels rbf have the best accuracy score
+
+
 
 
 ## Task 2
 Try implementing a neural net for the above dataset as a binary classifier. You may use any AI library[*] like scikit, Tensorflow, pyTorch etc.
+
 
 ## Intuition
 In Task 2 , I implemented aritificial neural networl using tensorflow and keras
