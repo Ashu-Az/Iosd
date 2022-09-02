@@ -28,7 +28,7 @@ In this model i used support vector classifier as the method to draw the boundar
 
 * linear kernel:
 
-    In linear kernel i used gamma function as auto that means it will automatically take the relevant linear clasifier coefficient.
+      In linear kernel i used gamma function as auto that means it will automatically take the relevant linear clasifier coefficient.
     then i scaled X_train and X_test as it would take a lot of time in training the model as the classifier.fit() takes lot of time for large datasets , I used scaling to normalize the data values for all datapoints to make them in range 0 to 1.
     In classifier variable i assigned the svm model to train the model using X_train and y_train.   
     Then to check the accuracy of the model i used X_test datavalues to predict the output value and assigned the prediction in y_predict.
