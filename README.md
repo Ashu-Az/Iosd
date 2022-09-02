@@ -6,7 +6,8 @@ In this project , I implement a support vector machine (SVM) model to predict th
 ## Task 1 
 Implement kernel SVM for classification and provide a comparative study using different kernels(linear, polynomial, gaussian, sigmoid, RBF etc) using precision and f1-scores. 
 
-Iosd.ipynb
+https://github.com/Ashu-Az/Iosd/blob/main/Iosd.ipynb
+
 ## Documentation
 In the Task 1:
     1). After importing required dependies , I checked basic info about the dataset .
@@ -44,6 +45,8 @@ In this model i used support vector classifier as the method to draw the boundar
 
 ## Task 2
 Try implementing a neural net for the above dataset as a binary classifier. You may use any AI library[*] like scikit, Tensorflow, pyTorch etc.
+
+https://github.com/Ashu-Az/Iosd/blob/main/Iosd.ipynb
 
 ## Intuition
 In Task 2 , I implemented aritificial neural networl using tensorflow and keras
